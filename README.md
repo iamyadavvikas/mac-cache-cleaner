@@ -2,7 +2,7 @@
 
 A CleanMyMac X-style GUI tool to find and delete user caches, logs, Xcode junk, and temporary files on macOS.
 
-![screenshot_main.png](screenshot_main.png)
+
 
 ## Usage
 
